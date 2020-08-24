@@ -1,5 +1,4 @@
 ## Good-Morning
----
 I wrote this script to automate the process of sending my SO a good morning text message every day. The message includes the image and caption of the top post on reddit.com/r/Awwducational for the day as well as a word of the day, it's definition, and a usage example.
 
 ### How it works
